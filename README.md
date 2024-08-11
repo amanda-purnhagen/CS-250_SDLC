@@ -1,5 +1,5 @@
-# CS-250---SDLC-3-3-Assignment-Developing-Basic-ListView-Control
-CS 250 - Software Development Life Cycle: 3-3 Assignment: Developing Basic ListView Control Assignment
+# CS-250_SDLC
+3-3 Assignment: Developing Basic ListView Control Assignment
 
 # Project summary. What is being solved?
 
